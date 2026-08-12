@@ -4,6 +4,7 @@ A two-stage recon toolkit: **ffuf-based content discovery** → **content-aware 
 
 > **Authorized testing only.** Run only against hosts you own or have explicit written permission to test. Content discovery generates real, logged traffic.
 
+./ai_recon_pipeline.sh -l urls.txt -w ai_endpoint_wordlist_10k.txt
 ## Files
 
 | File | Purpose |
